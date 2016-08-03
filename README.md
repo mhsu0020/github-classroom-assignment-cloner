@@ -8,4 +8,4 @@ Run with authenticated GitHub shell.
 ./cloneAssignments.sh [organization] [assignment name] [student CSV file]
 ```
 
-Assumes first value of CSV is student GitHub username
+CSV format: USER_NAME,STUDNET_NAME
