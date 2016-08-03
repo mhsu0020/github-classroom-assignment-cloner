@@ -1,4 +1,6 @@
-## Script for cloning private assignment repos created by [GitHub Classroom](https://classroom.github.com/classrooms) Run with authenticated GitHub shell.
+## Script for cloning private assignment repos created by [GitHub Classroom](https://classroom.github.com/classrooms)
+
+Run with authenticated GitHub shell.
 
 ## Usage:
 
